@@ -1,16 +1,36 @@
-## Hi there 👋
+ Hi, I'm Fawaz 👋
 
-<!--
-**Fawaz-M-Alwahidi/Fawaz-M-Alwahidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Python Developer | Building ML & LLM-powered systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 About Me
+I build intelligent systems using Python, focusing on Machine Learning, Deep Learning, and LLM-based applications.  
+I enjoy turning ideas into real-world AI solutions.
+
+---
+
+ 🛠️ Tech Stack
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Data Structures & Algorithms
+- APIs & Backend Development
+
+---
+
+ 📌 Current Focus
+- Building real-world AI projects
+- Improving system design & problem solving
+- Exploring LLM applications
+
+---
+
+ 📂 Projects
+Coming soon...
+
+---
+
+ 📫 Contact
+Email: fawaz.mohammad.ai@gmail.com
