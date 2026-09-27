@@ -33,4 +33,4 @@ Coming soon...
 ---
 
  📫 Contact
-Email: fawaz.mohammad.ai@gmail.com
+Email: fawazalwahidi@gmail.com
